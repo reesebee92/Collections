@@ -1,0 +1,3 @@
+Collections Assignment
+
+Write a program that uses one of the Map classes to implement a contact list. Contact information should include first name, last name, a phone number and an email address. The list should be stored on your computer’s file system and entries sorted alphabetically according to a person’s last name. The program should prompt the user for the name of the file where the information is stored and allow the user to add a contact from the list, delete a contact from the list, and display the entire contact list.
