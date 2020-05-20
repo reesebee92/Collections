@@ -1,0 +1,19 @@
+
+Here is the current contact list: 
+Melanie Baker       202-555-0158, mbaker@gmail.com     
+Edith Hall          676-555-2177, ehall1@jhu.edu       
+Tammy Hall          404-555-4318, t_hall@yahoo.com     
+Caroline Smith      770-555-6017, ccsmith@gmail.com    
+
+Here is the current contact list: 
+Melanie Baker       202-555-0158, mbaker@gmail.com     
+Sharise Dantzler    267-555-5355, sd@gmail.com         
+Edith Hall          676-555-2177, ehall1@jhu.edu       
+Tammy Hall          404-555-4318, t_hall@yahoo.com     
+Caroline Smith      770-555-6017, ccsmith@gmail.com    
+
+Here is the current contact list: 
+Melanie Baker       202-555-0158, mbaker@gmail.com     
+Sharise Dantzler    267-555-5355, sd@gmail.com         
+Edith Hall          676-555-2177, ehall1@jhu.edu       
+Caroline Smith      770-555-6017, ccsmith@gmail.com    
